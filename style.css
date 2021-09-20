@@ -1,7 +1,8 @@
-.body_background{
+.body_background 
+{
     background-position: center;
     background-size:contain;
-	background:url(Grass.jpg);
+	background:url("Grass.jpg");
 }
 #myCanvas
 {
@@ -17,4 +18,3 @@
 	background-color: aliceblue;
 	font-family: fantasy;
 }
-
